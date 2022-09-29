@@ -32,3 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 .idea/compiler.xml
+.idea/vcs.xml
+.idea/compiler.xml
+.idea/misc.xml
+mvnw
+mvnw.cmd
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.jar
